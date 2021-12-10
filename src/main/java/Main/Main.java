@@ -1,14 +1,8 @@
 package Main;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.concurrent.BrokenBarrierException;
-import java.util.concurrent.CyclicBarrier;
-import java.util.concurrent.Semaphore;
+
 
 public class Main {
-
-    public static final int CARS_COUNT = 4;
 
     public static void main(String[] args) {
 
